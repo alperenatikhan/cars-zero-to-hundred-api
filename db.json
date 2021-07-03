@@ -1,0 +1,189 @@
+{
+
+"cars":[
+ {
+   "modelName": "Porsche 911 Turbo S (992)",
+   "productionYear": 2020,
+   "engineType": "ICE",
+   "enginePower": "478 kW (641 hp; 650 PS)",
+   "timeZeroToHundred": 2.5,
+   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "Porsche 918 Spyder",
+   "productionYear": 2013,
+   "engineType": "Hybrid",
+   "enginePower": "652 kW (875 hp; 887 PS)",
+   "timeZeroToHundred": 2.53,
+   "Noted specifications[vi]": "Limited to 918 produced, hybrid-electric, dual-motor, naturally aspirated"
+ },
+ {
+   "modelName": "Lamborghini Huracán Performante and Evo",
+   "productionYear": 2017,
+   "engineType": "ICE",
+   "enginePower": "471 kW (632 hp; 640 PS)",
+   "timeZeroToHundred": 2.6,
+   "Noted specifications[vi]": "Naturally aspirated"
+ },
+ {
+   "modelName": "Porsche Taycan Turbo S",
+   "productionYear": 2019,
+   "engineType": "Electric",
+   "enginePower": "560 kW (751 hp; 761 PS)",
+   "timeZeroToHundred": 2.6,
+   "Noted specifications[vi]": "All-electric, dual-motor, with 4(+1) seats"
+ },
+ {
+   "modelName": "Bugatti Veyron Super Sport",
+   "productionYear": 2010,
+   "engineType": "ICE",
+   "enginePower": "883 kW (1,184 hp; 1,200 PS)",
+   "timeZeroToHundred": 2.7,
+   "Noted specifications[vi]": "Limited to 30 produced"
+ },
+ {
+   "modelName": "Porsche 911 Turbo S (991.2)",
+   "productionYear": 2016,
+   "engineType": "ICE",
+   "enginePower": "427 kW (572 hp; 580 PS)",
+   "timeZeroToHundred": 2.7,
+   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "Porsche 911 GT2 RS (991)",
+   "productionYear": 2017,
+   "engineType": "ICE",
+   "enginePower": "515 kW (691 hp; 700 PS)",
+   "timeZeroToHundred": 2.7,
+   "Noted specifications[vi]": "Rear-engine"
+ },
+ {
+   "modelName": "McLaren 720S",
+   "productionYear": 2017,
+   "engineType": "ICE",
+   "enginePower": "530 kW (710 hp; 720 PS)",
+   "timeZeroToHundred": 2.7,
+   "Noted specifications[vi]": ""
+ },
+ {
+   "modelName": "Porsche 911 Turbo S (991)",
+   "productionYear": 2013,
+   "engineType": "ICE",
+   "enginePower": "412 kW (553 hp; 560 PS)",
+   "timeZeroToHundred": 2.8,
+   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "Audi R8 V10 Plus",
+   "productionYear": 2015,
+   "engineType": "ICE",
+   "enginePower": "449 kW (602 hp; 610 PS)",
+   "timeZeroToHundred": 2.8,
+   "Noted specifications[vi]": "Naturally aspirated"
+ },
+ {
+   "modelName": "Lamborghini Aventador SV",
+   "productionYear": 2015,
+   "engineType": "ICE",
+   "enginePower": "552 kW (740 hp; 750 PS)",
+   "timeZeroToHundred": 2.8,
+   "Noted specifications[vi]": "Naturally aspirated"
+ },
+ {
+   "modelName": "Bugatti Veyron",
+   "productionYear": 2005,
+   "engineType": "ICE",
+   "enginePower": "736 kW (987 hp; 1,001 PS)",
+   "timeZeroToHundred": 2.84,
+   "Noted specifications[vi]": ""
+ },
+ {
+   "modelName": "BMW M5 Competition",
+   "productionYear": 2018,
+   "engineType": "ICE",
+   "enginePower": "460 kW (617 hp; 625 PS)",
+   "timeZeroToHundred": 2.9,
+   "Noted specifications[vi]": "Front-engine, with 5 seats"
+ },
+ {
+   "modelName": "Ferrari 488 Pista and F8 Tributo",
+   "productionYear": 2018,
+   "engineType": "ICE",
+   "enginePower": "530 kW (710 hp; 720 PS)",
+   "timeZeroToHundred": 2.9,
+   "Noted specifications[vi]": ""
+ },
+ {
+   "modelName": "Tesla modelName S Performance w/Ludicrous Mode",
+   "productionYear": 2019,
+   "engineType": "Electric",
+   "enginePower": "449 kW (603 hp; 611 PS)",
+   "timeZeroToHundred": 2.9,
+   "Noted specifications[vi]": "All-electric, dual-motor, with 5 seats"
+ },
+ {
+   "modelName": "Chevrolet Corvette Stingray Z51",
+   "productionYear": 2020,
+   "engineType": "ICE",
+   "enginePower": "369 kW (495 hp; 502 PS)",
+   "timeZeroToHundred": 2.9,
+   "Noted specifications[vi]": ""
+ },
+ {
+   "modelName": "Mercedes-AMG GT 63 S 4MATIC+[xvii]",
+   "productionYear": 2018,
+   "engineType": "ICE",
+   "enginePower": "470 kW (630 hp; 639 PS)",
+   "timeZeroToHundred": 2.99,
+   "Noted specifications[vi]": "Front-engine, with 4(+1) seats"
+ },
+ {
+   "modelName": "Porsche 911 Turbo S (997)",
+   "productionYear": 2010,
+   "engineType": "ICE",
+   "enginePower": "390 kW (523 hp; 530 PS)",
+   "timeZeroToHundred": 3.0,
+   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "McLaren 675LT",
+   "productionYear": 2015,
+   "engineType": "ICE",
+   "enginePower": "496 kW (666 hp; 675 PS)",
+   "timeZeroToHundred": 3.0,
+   "Noted specifications[vi]": "Limited to 1000 produced[xix]"
+ },
+ {
+   "modelName": "Ferrari 812 Superfast",
+   "productionYear": 2017,
+   "engineType": "ICE",
+   "enginePower": "588 kW (789 hp; 800 PS)",
+   "timeZeroToHundred": 3.0 ,
+   "Noted specifications[vi]": "Front-engine"
+ },
+ {
+   "modelName": "Nissan GT-R Nismo",
+   "productionYear": 2018,
+   "engineType": "ICE",
+   "enginePower": "441 kW (591 hp; 600 PS)",
+   "timeZeroToHundred": 3.0,
+   "Noted specifications[vi]": "Front-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "BMW M8 Competition",
+   "productionYear": 2019,
+   "engineType": "ICE",
+   "enginePower": "460 kW (617 hp; 625 PS)",
+   "timeZeroToHundred": 3.0,
+   "Noted specifications[vi]": "Front-engine, with 2+2 seats"
+ },
+ {
+   "modelName": "Porsche Panamera Turbo S",
+   "productionYear": 2020,
+   "engineType": "ICE",
+   "enginePower": "463 kW (621 hp; 630 PS)",
+   "timeZeroToHundred": 3.0 ,
+   "Noted specifications[vi]": "Front-engine, with 4 seats"
+ }
+]
+}
