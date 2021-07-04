@@ -7,7 +7,9 @@
    "engineType": "ICE",
    "enginePower": "478 kW (641 hp; 650 PS)",
    "timeZeroToHundred": 2.5,
-   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+   "shortNotice": "Rear-engine, with 2+2 seats",
+    "photoUrl": "https://www.auto-motor-i-sport.pl/media/lib/2833/2020-porsche-911-turbo.jpg"
+
  },
  {
    "modelName": "Porsche 918 Spyder",
@@ -15,7 +17,8 @@
    "engineType": "Hybrid",
    "enginePower": "652 kW (875 hp; 887 PS)",
    "timeZeroToHundred": 2.53,
-   "Noted specifications[vi]": "Limited to 918 produced, hybrid-electric, dual-motor, naturally aspirated"
+   "shortNotice": "Limited to 918 produced, hybrid-electric, dual-motor, naturally aspirated",
+    "photoUrl": "https://www.autogen.pl/cars/_mini/Por918Spy13-850x430.jpg"
  },
  {
    "modelName": "Lamborghini Huracán Performante and Evo",
@@ -23,7 +26,8 @@
    "engineType": "ICE",
    "enginePower": "471 kW (632 hp; 640 PS)",
    "timeZeroToHundred": 2.6,
-   "Noted specifications[vi]": "Naturally aspirated"
+   "shortNotice": "Naturally aspirated",
+    "photoUrl": "https://dmc.ag/wp-content/uploads/2020/07/DMC_Lamborghini_Huracan_Performante_Front_Bumper.jpg"
  },
  {
    "modelName": "Porsche Taycan Turbo S",
@@ -31,7 +35,8 @@
    "engineType": "Electric",
    "enginePower": "560 kW (751 hp; 761 PS)",
    "timeZeroToHundred": 2.6,
-   "Noted specifications[vi]": "All-electric, dual-motor, with 4(+1) seats"
+   "shortNotice": "All-electric, dual-motor, with 4(+1) seats",
+    "photoUrl":"https://namasce.pl/wp-content/uploads/2020/08/porsche_taycan_turbo_s_1.jpg"
  },
  {
    "modelName": "Bugatti Veyron Super Sport",
@@ -39,7 +44,8 @@
    "engineType": "ICE",
    "enginePower": "883 kW (1,184 hp; 1,200 PS)",
    "timeZeroToHundred": 2.7,
-   "Noted specifications[vi]": "Limited to 30 produced"
+   "shortNotice": "Limited to 30 produced",
+    "photoUrl": "https://i.wpimg.pl/1200x0/m.autokult.pl/bugatti-veyron-super-spo-4173f86.jpg"
  },
  {
    "modelName": "Porsche 911 Turbo S (991.2)",
@@ -47,7 +53,8 @@
    "engineType": "ICE",
    "enginePower": "427 kW (572 hp; 580 PS)",
    "timeZeroToHundred": 2.7,
-   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+   "shortNotice": "Rear-engine, with 2+2 seats",
+   "photoUrl":"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ5bTE0bjZhZHc1bTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DlMOwyHzvlBNMZsmuPyBzDOqj3ZJD7OHYbNwLNt8fxA/image;s=1080x720"
  },
  {
    "modelName": "Porsche 911 GT2 RS (991)",
@@ -55,7 +62,8 @@
    "engineType": "ICE",
    "enginePower": "515 kW (691 hp; 700 PS)",
    "timeZeroToHundred": 2.7,
-   "Noted specifications[vi]": "Rear-engine"
+   "shortNotice": "Rear-engine",
+    "photoUrl": "https://www.autogen.pl/cars/_mini/Por991GT2RS-850x430.jpg"
  },
  {
    "modelName": "McLaren 720S",
@@ -63,7 +71,9 @@
    "engineType": "ICE",
    "enginePower": "530 kW (710 hp; 720 PS)",
    "timeZeroToHundred": 2.7,
-   "Noted specifications[vi]": ""
+   "shortNotice": "", 
+    "photoUrl": "https://devil-cars.pl/storage/images/DhmueLsQ2krY3YjfwMQxE6JMQwzpxJ87JRpmdCY4.jpeg"
+
  },
  {
    "modelName": "Porsche 911 Turbo S (991)",
@@ -71,7 +81,8 @@
    "engineType": "ICE",
    "enginePower": "412 kW (553 hp; 560 PS)",
    "timeZeroToHundred": 2.8,
-   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+   "shortNotice": "Rear-engine, with 2+2 seats",
+    "photoUrl": "https://pictures.trader.pl/eurotax/pictures/4/54/8f1224a374c45a453269e6bf1068916f.jpg"
  },
  {
    "modelName": "Audi R8 V10 Plus",
@@ -79,7 +90,8 @@
    "engineType": "ICE",
    "enginePower": "449 kW (602 hp; 610 PS)",
    "timeZeroToHundred": 2.8,
-   "Noted specifications[vi]": "Naturally aspirated"
+   "shortNotice": "Naturally aspirated",
+    "photoUrl" : "https://ag-spots-2021.o.auroraobjects.eu/2021/05/01/audi-r8-v10-plus-2015-c602901052021183335_1.jpg"
  },
  {
    "modelName": "Lamborghini Aventador SV",
@@ -87,7 +99,8 @@
    "engineType": "ICE",
    "enginePower": "552 kW (740 hp; 750 PS)",
    "timeZeroToHundred": 2.8,
-   "Noted specifications[vi]": "Naturally aspirated"
+   "shortNotice": "Naturally aspirated",
+    "photoUrl": "https://www.autogen.pl/cars/_mini/LamboLP7504SV-850x430.jpg"
  },
  {
    "modelName": "Bugatti Veyron",
@@ -95,7 +108,8 @@
    "engineType": "ICE",
    "enginePower": "736 kW (987 hp; 1,001 PS)",
    "timeZeroToHundred": 2.84,
-   "Noted specifications[vi]": ""
+   "shortNotice": "",
+    "photoUrl": "https://ocdn.eu/pulscms-transforms/1/68Xk9kpTURBXy81ZTU2ZTU5YWU4ZjkyYzZhNGI2Nzc3ZTRmM2ViNmM2NC5qcGeUlQMAWc0GQM0DhJMFzQMUzQG8lQfZMi9wdWxzY21zL01EQV8vMjMzN2M5ZmQ2YjkzMWVlNmNiMGQyM2RjYmEyNThhOWQucG5nAMIAkwmmMjkzNWUwBoGhMAE/bugatti-veyron-type-18-black-bess.jpg"
  },
  {
    "modelName": "BMW M5 Competition",
@@ -103,7 +117,8 @@
    "engineType": "ICE",
    "enginePower": "460 kW (617 hp; 625 PS)",
    "timeZeroToHundred": 2.9,
-   "Noted specifications[vi]": "Front-engine, with 5 seats"
+   "shortNotice": "Front-engine, with 5 seats",
+    "photoUrl": "https://wrc.net.pl/app/uploads/2018/08/bmw-m5-competition-1-e1533647277428-1024x630-c-center.jpg"
  },
  {
    "modelName": "Ferrari 488 Pista and F8 Tributo",
@@ -111,15 +126,18 @@
    "engineType": "ICE",
    "enginePower": "530 kW (710 hp; 720 PS)",
    "timeZeroToHundred": 2.9,
-   "Noted specifications[vi]": ""
+   "shortNotice": "",
+    "photoUrl":"https://www.auto-motor-i-sport.pl/media/lib/2626/ferrari-f8-tributo-1.jpg"
+
  },
  {
-   "modelName": "Tesla modelName S Performance w/Ludicrous Mode",
+   "modelName": "Tesla S Performance w/Ludicrous Mode",
    "productionYear": 2019,
    "engineType": "Electric",
    "enginePower": "449 kW (603 hp; 611 PS)",
    "timeZeroToHundred": 2.9,
-   "Noted specifications[vi]": "All-electric, dual-motor, with 5 seats"
+   "shortNotice": "All-electric, dual-motor, with 5 seats",
+    "photoUrl":"https://elektrowoz.pl/wp-content/uploads/2021/01/Tesla-Model-S-Plaid-2021.jpg"
  },
  {
    "modelName": "Chevrolet Corvette Stingray Z51",
@@ -127,15 +145,17 @@
    "engineType": "ICE",
    "enginePower": "369 kW (495 hp; 502 PS)",
    "timeZeroToHundred": 2.9,
-   "Noted specifications[vi]": ""
+   "shortNotice": "",
+    "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmIZQNO8npkrNKAevzpx6vnXefdAbSNdX-UGQSSckHhYNuFrlB1WQdAIwJ1WmEDWSKj0&usqp=CAU"
  },
  {
-   "modelName": "Mercedes-AMG GT 63 S 4MATIC+[xvii]",
+   "modelName": "Mercedes-AMG GT 63 S 4MATIC",
    "productionYear": 2018,
    "engineType": "ICE",
    "enginePower": "470 kW (630 hp; 639 PS)",
    "timeZeroToHundred": 2.99,
-   "Noted specifications[vi]": "Front-engine, with 4(+1) seats"
+   "shortNotice": "Front-engine, with 4(+1) seats",
+    "photoUrl": "https://amberboard.pl/wp-content/uploads/2020/06/2-5.jpg"
  },
  {
    "modelName": "Porsche 911 Turbo S (997)",
@@ -143,7 +163,8 @@
    "engineType": "ICE",
    "enginePower": "390 kW (523 hp; 530 PS)",
    "timeZeroToHundred": 3.0,
-   "Noted specifications[vi]": "Rear-engine, with 2+2 seats"
+   "shortNotice": "Rear-engine, with 2+2 seats",
+    "photoUrl":"https://cdn.elferspot.com/wp-content/uploads/2018/12/Porsche-911-Turbo-S-3-1.jpg"
  },
  {
    "modelName": "McLaren 675LT",
@@ -151,7 +172,10 @@
    "engineType": "ICE",
    "enginePower": "496 kW (666 hp; 675 PS)",
    "timeZeroToHundred": 3.0,
-   "Noted specifications[vi]": "Limited to 1000 produced[xix]"
+   "shortNotice": "Limited to 1000 produced",
+    "photoUrl":"https://www.autocentrum.pl/ac-file/news/58932159592c7d8b478e8fa4/mclaren-675lt-debiutuje-przed-targami-w-genewie.jpg"
+
+
  },
  {
    "modelName": "Ferrari 812 Superfast",
@@ -159,7 +183,8 @@
    "engineType": "ICE",
    "enginePower": "588 kW (789 hp; 800 PS)",
    "timeZeroToHundred": 3.0 ,
-   "Noted specifications[vi]": "Front-engine"
+   "shortNotice": "Front-engine",
+    "photoUrl": "https://bi.im-g.pl/im/d2/c1/19/z27008210IER,Ferrari-812-Superfast-Versione-Speciale.jpg"
  },
  {
    "modelName": "Nissan GT-R Nismo",
@@ -167,7 +192,9 @@
    "engineType": "ICE",
    "enginePower": "441 kW (591 hp; 600 PS)",
    "timeZeroToHundred": 3.0,
-   "Noted specifications[vi]": "Front-engine, with 2+2 seats"
+   "shortNotice": "Front-engine, with 2+2 seats",
+    "photoUrl": "https://mnews.com.pl/wp-content/uploads/2021/04/2022-nissan-gt-r-nismo-special-edition.jpg"
+
  },
  {
    "modelName": "BMW M8 Competition",
@@ -175,7 +202,8 @@
    "engineType": "ICE",
    "enginePower": "460 kW (617 hp; 625 PS)",
    "timeZeroToHundred": 3.0,
-   "Noted specifications[vi]": "Front-engine, with 2+2 seats"
+   "shortNotice": "Front-engine, with 2+2 seats",
+    "photoUrl" : "https://ocdn.eu/images/pulscms/NGI7MDA_/44bf2f8c648b0ba97ba359c6dace1285.jpg"
  },
  {
    "modelName": "Porsche Panamera Turbo S",
@@ -183,7 +211,8 @@
    "engineType": "ICE",
    "enginePower": "463 kW (621 hp; 630 PS)",
    "timeZeroToHundred": 3.0 ,
-   "Noted specifications[vi]": "Front-engine, with 4 seats"
+   "shortNotice": "Front-engine, with 4 seats",
+    "photoUrl": "https://ocdn.eu/pulscms-transforms/1/zN3ktkpTURBXy82YTc1ODllYTJiNjQ2OTZhNzcxY2FkYjE3Y2JmMzFlYi5qcGeSlQPNARDNAV7NB5bNBEWTBc0EsM0Cdg"
  }
 ]
 }
